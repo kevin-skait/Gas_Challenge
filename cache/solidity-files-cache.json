@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/workspace/kevin-skait/gas_challenge/contracts/gasChallenge.sol": {
+      "lastModificationDate": 1689310779217,
+      "contentHash": "5ecf494e667d7e15a3ef4287108c1d48",
+      "sourceName": "contracts/gasChallenge.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.18"
+      ],
+      "artifacts": [
+        "gasChallenge"
+      ]
+    }
+  }
+}
